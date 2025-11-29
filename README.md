@@ -1,10 +1,10 @@
+
 ---
-title: LLM Analysis Quiz Solver
-emoji: 🏃
-colorFrom: red
+title: 2 Tds Updated
+emoji: 🐳
+colorFrom: blue
 colorTo: blue
 sdk: docker
-pinned: false
 app_port: 7860
 ---
 
